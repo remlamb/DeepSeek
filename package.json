@@ -1,0 +1,9 @@
+{
+    "name": "com.remlamb.deepseek",
+    "version": "1.0.0",
+    "displayName": "DeepSeek",
+    "description": "A Unity package for DeepSeek integration",
+    "unity": "2021.3",
+    "dependencies": {}
+  }
+  
